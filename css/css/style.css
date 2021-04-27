@@ -1,0 +1,84 @@
+
+*{
+    box-sizing: border-box;
+}
+
+header{
+    font-family: 'Courgette', cursive;
+    text-align: center;
+   background-color:  RGBA(211, 211, 211, 0.548);
+   font-size: 40px;
+}
+
+
+
+#table{
+    margin-left: 800px;
+    margin-bottom: 366px;
+   
+    border: 1px solid white;
+    table-layout: auto;
+    width: 300px;
+    height: 34px;
+}
+table th{
+    color:RGBA(211, 211, 211, 0.548) ;
+   background-color: RGB(39, 39, 39);
+   border: 2px solid white;
+   width: 300px;
+   height: 34px;
+}
+
+table tr{
+    color:RGBA(211, 211, 211, 0.548) ;
+   background-color: RGB(78, 78, 78);
+   border: 2px solid white;
+   width: 300px;
+   height: 34px;
+}
+
+td{
+    border: 2px solid white;
+    width: 300px;
+    height: 34px;
+}
+
+
+
+
+
+
+
+#form{
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+     margin-left: 50px;
+     margin-bottom: 366px;
+     width: 200px;
+     
+       
+        background-color:RGBA(211, 211, 211, 0.548) ;
+       
+     
+     
+   
+}
+
+#submit{
+    
+
+    background-color:RGB(78, 78, 78);
+    border-radius: 20px;
+    width: 200px;
+  
+}
+
+footer{
+    font-family: 'Courgette', cursive;
+    text-align: center;
+   background-color:  RGBA(211, 211, 211, 0.548);
+   font-size: 40px;
+     
+    
+    
+}
